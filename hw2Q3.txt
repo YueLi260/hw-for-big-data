@@ -1,0 +1,7 @@
+x = 6
+lambda = 4
+dpois(x,lambda) # probability mass function
+
+x = 0
+lambda = 5
+dpois(x,lambda) # probability mass function
